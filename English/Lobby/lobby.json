@@ -1,0 +1,20 @@
+{
+  "LANGUAGE_INFO": {
+    "NAME": "English",
+    "ENGLISH_CODE:": "en",
+    "TRANSLATED_BY": "VastLands | xZeroMCPE"
+  },
+  "SERVER_JOINED": "You're connected to {SERVER}",
+  "COMPONENTS": {
+    "BAR_ITEM_NAMES": {
+      "MY_PROFILE": "My Profile",
+      "SERVERS": "Servers",
+      "COSMETICS": "Cosmetics",
+      "HIDE_PLAYER": "Hide Players",
+      "SHOW_PLAYER": "Show Players"
+    },
+    "PLAYER_VISIBILITY_ON": "All players are now hidden!",
+    "PLAYER_VISIBILITY_OFF": "Players are no longer hidden!"
+  },
+  "PORTAL_OPENING": "Opening the menu..."
+}
