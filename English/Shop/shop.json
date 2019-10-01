@@ -1,0 +1,96 @@
+{
+  "LANGUAGE_INFO": {
+    "NAME": "English",
+    "LANGUAGE": "en",
+    "TRANSLATED_BY": "xZeroMCPE"
+  },
+  "HEADER_USERNAME": "Welcome",
+  "CART_HEADER": "Your cart",
+  "CART_EMPTY": "Your cart is empty, doesn't have to be 😉",
+  "NAVIGATION": {
+    "HOME": "HOME",
+    "RANKS": "RANKS",
+    "CAPES": "Capes |<font color='red'><b> NEW!</b></font>",
+    "COINS": "COINS",
+    "OTHER": {
+      "RANK_STARTING_RATES": {
+        "HEADER": "Purchase coins",
+        "HEADER_SUB": "Starting from $5"
+      },
+      "COINS_STARTING_RATES": {
+        "HEADER": "Purchase ranks",
+        "HEADER_SUB": "Starting from $10"
+      },
+      "KEYS_STARTING_RATES": {
+        "HEADER": "Purchase keys",
+        "HEADER_SUB": "Starting from $10"
+      }
+    }
+  },
+  "USERNAME_PAGE": {
+    "SPECIFY_USERNAME": "Specify your username (Case sensitive)",
+    "OWN_ANDROID_DEVICE": "<b>WAIT!</b> Do you own an android device? You can also purchase ranks through our all. <a href='https://play.google.com/store/apps/details?id=com.vastlands'>Click here</a>",
+    "FORM_PLACEHOLDER_USERNAME": "Username",
+    "FORM_PLACE_HOLDER_PROMOTIONAL_CODE": "If you received a promotional code, you can type it in here",
+    "BUTTON_CLICK_BELOW": "Click button bellow",
+    "BUTTON_CONFIRM_PLACEHOLDER": "Confirm this username",
+    "BUTTON_CONFIRM_DESCRIPTION": "Make sure that looks like you! (Should change to your skin)",
+    "WHY_VERIFICATION_HEADER": "<b>Why a username verification?</b>",
+    "WHY_VERIFICATION_DESCRIPTION": "The confirmation of your username is necessary to prevent fraud and ensure that purchases will be credited to your account.\n\n"
+  },
+  "SHOP_HOMEPAGE": {
+    "INTRODUCTION": "Welcome to VastLands shop!",
+    "INTRODUCTION_SUB": "Begin by clicking your desired packages in the top menu!",
+    "INTRODUCTION_SUB_2": "You can pay with either your PayPal account, or without one. To pay with your account you log in then click Buy Now. To pay without an account you click 'Pay with a debut or credit card, or PayPal Credit'",
+    "SUPPORT_INTRO": "Support?",
+    "SUPPORT_INFORMATION": "Need help? <b>Visit</b> our discord by clicking on the button below <b>or</b> via twitter <b>@VastlandsMC</b> !",
+    "SUPPORT_BUTTON": "Visit Discord",
+    "IMPORTANT_INTRO": "Important",
+    "IMPORTANT_INFORMATION": "Purchasing ranks helps support Vastlands, and please allow up-to 1 min to get the perk. Also please note that chargebacks are not allowed, all purchases are final!"
+  },
+  "RANK_PAGE": {
+    "INTRODUCTION": "Ranks",
+    "INTRODUCTION_SUB": "Buying ranks helps support us, to add new features and to improve <b>VastLands</b>!",
+    "INFORMATION_HEADER": "Information",
+    "INFORMATION_DESCRIPTION": "Ranks are global and will work in all current and future servers!",
+    "INFORMATION_KEY_FEATURE_1": "Each ranks comes with a perk, <b>the highest has more.</b>",
+    "INFORMATION_DESCRIPTION_LAST": "For help and support visit our <a href='https://discord.vastlands.net'>discord</a>",
+    "RANKS": {
+      "BUY_BUTTON": "Buy",
+      "LIFETIME": "Lifetime",
+      "SUPPORT_US": "Support us",
+      "SEPARATORS": {
+        "HUB_PETS": "Hub Pets",
+        "PRISON_ADVANTAGES": "Prison Advantages",
+        "DISCORD_ADVANTAGES": "Advantages on discord"
+      },
+      "FEATURES": {
+        "FLY": "Fly",
+        "CHANGE_NICK": "Change Nick",
+        "JOIN_FULL_SERVER": "Join Full Server",
+        "VANISH": "Vanish",
+        "SYNC_DISCORD": "Rank sync on DISCORD"
+      }
+    }
+  },
+  "CAPE_PAGE": {
+    "INTRODUCTION": "Capes",
+    "INTRODUCTION_SUB": "Buy capes",
+    "INTRODUCTION_HEADER": "Enhance your style!",
+    "INFORMATION_HEADER": "What's these?!",
+    "INFORMATION_DESCRIPTION": "They're capes! They appear behind your back. Show off your style and shine bright!",
+    "RANK_INFORMATION_KEY_FEATURE_1": "Who can see my capes?",
+    "RANK_INFORMATION_DESCRIPTION_LAST": "<b>Everyone on the VastLands Network</b>"
+  },
+  "COINS_PAGE": {
+    "INTRODUCTION": "Coins",
+    "INTRODUCTION_SUB": "Buy coins",
+    "INTRODUCTION_HEADER": "How much would you like to purchase?",
+    "INFORMATION_HEADER": "What is Coins?",
+    "INFORMATION_DESCRIPTION": "They are a type of money currency Vastlands uses. With it you can purchase things on the in-game shop!",
+    "INFORMATION_BOXED": "Having a rank will <code>double</code> the amount of coins you buy.",
+    "INFORMATION_DESCRIPTION_LAST": "For help and support visit our <a href='https://discord.vastlands.net'>discord</a>",
+    "DEALS_INTRODUCTION": "DEALS",
+    "DEALS_INTRODUCTION_SUB": "Here's some LIMITED time deals, Purchase while last!"
+  }
+}

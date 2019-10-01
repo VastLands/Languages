@@ -1,8 +1,8 @@
 {
   "LANGUAGE_INFO": {
     "NAME": "English",
-    "ENGLISH_CODE:": "en",
-    "TRANSLATED_BY": "VastLands | xZeroMCPE"
+    "Language_CODE:": "en",
+    "TRANSLATED_BY": "xZeroMCPE"
   },
   "SERVER_JOINED": "You're connected to {SERVER}",
   "COMPONENTS": {
@@ -16,5 +16,26 @@
     "PLAYER_VISIBILITY_ON": "All players are now hidden!",
     "PLAYER_VISIBILITY_OFF": "Players are no longer hidden!"
   },
-  "PORTAL_OPENING": "Opening the menu..."
+  "TUTORIAL": {
+    "MENU.TITLE": "§8VastLands Tutorial",
+    "MENU.MESSAGE.COMPLETED_ALREADY": "You already completed the Tutorial and got the rewards\n You can still do it again, but you won't earn any rewards :P\n\n §f§lLength: 2 minutes",
+    "MENU.BUTTON.START": "§a§lStart Tutorial!",
+    "MENU.BUTTON.LATER": "§cMaybe later! 3>"
+  },
+  "COSMETICS": {
+    "MENU.BUTTON.PETS": "§a§lPets",
+    "MENU.BUTTON.TRAILS": "§a§lTrails Effect",
+    "MENU.BUTTON.GADGETS": "§f§lGadgets",
+    "MENU.BUTTON.INFORMATION": "§5§lInformation",
+    "COSMETICS.PAGE.PET": {
+      "MENU.TITLE": "§1§lPets",
+      "MENU.USE.PET": "§aCLICK TO SPAWN!",
+      "MENU.USE.PET.ON_CLICK": "§aYou're now a proud pet owner! §cclick §aon your pet to manage it!"
+    },
+    "COSMETICS.PAGE.TRAIL": {
+      "MENU.TITLE": "§1§lTrails",
+      "MENU.USE.PET": "§aCLICK TO ACTIVATE",
+      "MENU.USE.PET.ON_CLICK": "§bParticle activated!"
+    }
+  }
 }
