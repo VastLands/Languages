@@ -2,7 +2,10 @@
   <dictionary name="xZero">
     <words>
       <w>cclick</w>
+      <w>cooldown</w>
+      <w>nametag</w>
       <w>vastlands</w>
+      <w>vcommand</w>
     </words>
   </dictionary>
 </component>

@@ -1,0 +1,12 @@
+{
+    "SERVER_JOINED": "You're connected to {IDENTITY}",
+    "PREFIXES": {
+        "SERVER": "Server",
+        "PERMISSION": "Permission",
+        "PORTAL": "Portal",
+        "TREASURE": "Treasure",
+        "GADGET": "Gadget",
+        "PET": "Pet",
+        "PARTICLE": "Particle"
+    }
+}

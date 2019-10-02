@@ -1,41 +1,84 @@
 {
-  "LANGUAGE_INFO": {
-    "NAME": "English",
-    "Language_CODE:": "en",
-    "TRANSLATED_BY": "xZeroMCPE"
-  },
-  "SERVER_JOINED": "You're connected to {SERVER}",
-  "COMPONENTS": {
-    "BAR_ITEM_NAMES": {
-      "MY_PROFILE": "My Profile",
-      "SERVERS": "Servers",
-      "COSMETICS": "Cosmetics",
-      "HIDE_PLAYER": "Hide Players",
-      "SHOW_PLAYER": "Show Players"
+    "LANGUAGE_INFO": {
+        "NAME": "English",
+        "Language_CODE:": "en",
+        "TRANSLATED_BY": "xZeroMCPE"
     },
-    "PLAYER_VISIBILITY_ON": "All players are now hidden!",
-    "PLAYER_VISIBILITY_OFF": "Players are no longer hidden!"
-  },
-  "TUTORIAL": {
-    "MENU.TITLE": "§8VastLands Tutorial",
-    "MENU.MESSAGE.COMPLETED_ALREADY": "You already completed the Tutorial and got the rewards\n You can still do it again, but you won't earn any rewards :P\n\n §f§lLength: 2 minutes",
-    "MENU.BUTTON.START": "§a§lStart Tutorial!",
-    "MENU.BUTTON.LATER": "§cMaybe later! 3>"
-  },
-  "COSMETICS": {
-    "MENU.BUTTON.PETS": "§a§lPets",
-    "MENU.BUTTON.TRAILS": "§a§lTrails Effect",
-    "MENU.BUTTON.GADGETS": "§f§lGadgets",
-    "MENU.BUTTON.INFORMATION": "§5§lInformation",
-    "COSMETICS.PAGE.PET": {
-      "MENU.TITLE": "§1§lPets",
-      "MENU.USE.PET": "§aCLICK TO SPAWN!",
-      "MENU.USE.PET.ON_CLICK": "§aYou're now a proud pet owner! §cclick §aon your pet to manage it!"
+    "SCOREBOARD": {
+        "RANK": "Rank",
+        "COIN": "Coin",
+        "LOBBY": "Lobby"
     },
-    "COSMETICS.PAGE.TRAIL": {
-      "MENU.TITLE": "§1§lTrails",
-      "MENU.USE.PET": "§aCLICK TO ACTIVATE",
-      "MENU.USE.PET.ON_CLICK": "§bParticle activated!"
+    "COMPONENTS": {
+        "BAR_ITEM_NAMES": {
+            "MY_PROFILE": "§aTAP TO\n§b§lView Your Profile",
+            "SERVERS": "§aTAP TO\n§b§lView Gamemodes",
+            "COSMETICS": "§aTAP TO\n§b§lView Cosmetics",
+            "HIDE_PLAYER": "§aTAP TO\n§c§lHide Players",
+            "SHOW_PLAYER": "§aTAP TO\n§b§lShow Players",
+            "LOBBIES": "§aTAP TO\n§b§lView Lobbies"
+        },
+        "PLAYER_VISIBILITY_ON": "All players are now hidden!",
+        "PLAYER_VISIBILITY_OFF": "Players are no longer hidden!"
+    },
+    "TUTORIAL": {
+        "MENU_TITLE": "§8VastLands Tutorial",
+        "MENU_MESSAGE_COMPLETED_ALREADY": "You already completed the Tutorial and got the rewards\n You can still do it again, but you won't earn any rewards :P\n\n §f§lLength: 2 minutes",
+        "MENU_BUTTON_START": "§a§lStart Tutorial!",
+        "MENU_BUTTON_LATER": "§cMaybe later! 3>"
+    },
+    "COSMETICS": {
+        "MENU_BUTTON_PETS": "§a§lPets",
+        "MENU_BUTTON_TRAILS": "§a§lTrails Effect",
+        "MENU_BUTTON_GADGETS": "§f§lGadgets",
+        "MENU_BUTTON_INFORMATION": "§5§lInformation",
+        "COSMETICS_PAGE_PET": {
+            "MENU_TITLE": "§1§lPets",
+            "MENU_USE_PET": "§aCLICK TO SPAWN!",
+            "MENU_PET_SETTINGS": {
+                "MENU_TITLE": "Pet Settings",
+                "MENU_INPUT_NAMETAG": "Name tag",
+                "MENU_INPUT_MOUNT": "Mount",
+                "MENU_INPUT_KILL": "Kill (Meanie!)",
+                "MENU_INPUT_SPECIAL_TRICK": "Special Trick"
+            }
+        },
+        "COSMETIC_PAGE_PARTICLE": {
+            "MENU_BUTTON_DEACTIVATE": "§cCLICK TO DEACTIVATE",
+            "MENU_BUTTON_ACTIVATE": "§r§aCLICK TO ACTIVATE",
+            "MENU_BUTTON_RANK_REQUIRED": "§r§cRANK REQUIRED!"
+        },
+        "COSMETICS.PAGE.TRAIL": {
+            "MENU_TITLE": "§1§lTrails",
+            "MENU_USE_PET": "§aCLICK TO ACTIVATE",
+            "MENU_USE_PET_ON_CLICK": "§bParticle activated!"
+        }
+    },
+    "TREASURE": {
+        "THROWABLE_TNT": "§l§bTHROWABLE TNT",
+        "FOUND": "You found §d{TNT}§c THROWABLE TNT!§7 Check your gadgets!",
+        "FOUND_BROADCAST": "{PLAYER} §7found §d{TNT}§7 THROWABLE TNT!"
+    },
+    "GADGET": {
+        "COOLDOWN": "Ouch! That gadget is on a §d{COOLDOWN}§c seconds cooldown!",
+        "GADGET_EMPTY": "§cYou don't have any of that gadget to use",
+        "GADGET_TNT_EXPLODE": "Ka-Boom!"
+    },
+    "PET": {
+        "KILLED": "Ouch! You killed your pet! Don't worry, you can do a revive!",
+        "SWITCHED": "Switching pet....",
+        "USE_PET_ON_CLICK": "You're now a proud pet owner! §cclick §aon your pet to manage it!",
+        "USE_PET_ON_CLICK_LOCKED": "You don't own that pet! Purchase a rank at§6 Shop.VastLands.net",
+        "NAMETAG_UPDATE": "You updated your pet name tag!",
+        "NAMETAG_LENGTH": "Ouch! You can't have more than 50 characters in your pet name tag!",
+        "MOUNT_UNSUPPORTED": "You can't mount this pet yet!",
+        "SPECIAL_ABILITY": "Oh nice! Your pet will now perform special tricks or do it's special abilities!",
+        "SPECIAL_ABILITY_UNSUPPORTED": "This pet currently don't have any special tricks or abilities. You can train it by playing with it more.",
+        "SPECIAL_ABILITY_DISABLED": "Your pet will no longer perform special tricks or abilities!"
+    },
+    "PARTICLE": {
+        "PARTICLE_ACTIVATED": "Particle activated!",
+        "PARTICLE_DEACTIVATED": "Particle deactivated!",
+        "PARTICLE_LOCKED": "You don't own that particle! Purchase a rank at§6 Shop.VastLands.net"
     }
-  }
 }
