@@ -1,6 +1,8 @@
 {
     "SERVER_JOINED": "You're connected to {IDENTITY}",
     "LANGUAGE_CHANGE": "Your language has been set to {LANGUAGE}",
+    "LANGUAGE_CHANGE_SAME": "That's already your default language!",
+    "LANGUAGE_PAGE_DESCRIPTION": "VastLands supports the following languages below, support is light. We'll continually improve it. Click on any below to set it as your default language",
     "PREFIXES": {
         "SERVER": "Server",
         "PERMISSION": "Permission",
@@ -8,7 +10,8 @@
         "TREASURE": "Treasure",
         "GADGET": "Gadget",
         "PET": "Pet",
-        "PARTICLE": "Particle"
+        "PARTICLE": "Particle",
+        "LANGUAGE": "Language"
     },
     "GAMES": {
         "DUEL": "Duels",
