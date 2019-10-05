@@ -28,6 +28,7 @@
         "MENU_BUTTON_LATER": "§cMaybe later! 3>"
     },
     "COSMETICS": {
+        "MENU.TITLE": "Cosmetics",
         "MENU_BUTTON_PETS": "§a§lPets",
         "MENU_BUTTON_TRAILS": "§a§lTrails Effect",
         "MENU_BUTTON_GADGETS": "§f§lGadgets",
@@ -35,6 +36,7 @@
         "COSMETICS_PAGE_PET": {
             "MENU_TITLE": "§1§lPets",
             "MENU_USE_PET": "§aCLICK TO SPAWN!",
+            "MENU_BUTTON_RANK_REQUIRED": "§r§cRANK REQUIRED!",
             "MENU_PET_SETTINGS": {
                 "MENU_TITLE": "Pet Settings",
                 "MENU_INPUT_NAMETAG": "Name tag",
@@ -80,5 +82,15 @@
         "PARTICLE_ACTIVATED": "Particle activated!",
         "PARTICLE_DEACTIVATED": "Particle deactivated!",
         "PARTICLE_LOCKED": "You don't own that particle! Purchase a rank at§6 Shop.VastLands.net"
+    },
+    "PROFILE": {
+        "MENU.BUTTON.MY_FRIEND": "My Friends",
+        "MENU.BUTTON.DISCORD": "Discord",
+        "DISCORD_ACCOUNT_LINKED": "LINKED",
+        "DISCORD_ACCOUNT_NOT_LINKED": "NOT LINKED"
+    },
+    "SERVER-LIST": {
+        "MENU.TITLE": "CHOOSE A GAMEMODE",
+        "MENU.BUTTON.ONLINE": "Currently online:"
     }
 }

@@ -1,5 +1,6 @@
 {
     "SERVER_JOINED": "You're connected to {IDENTITY}",
+    "LANGUAGE_CHANGE": "Your language has been set to {LANGUAGE}",
     "PREFIXES": {
         "SERVER": "Server",
         "PERMISSION": "Permission",
@@ -8,5 +9,9 @@
         "GADGET": "Gadget",
         "PET": "Pet",
         "PARTICLE": "Particle"
+    },
+    "GAMES": {
+        "DUEL": "Duels",
+        "PRISON": "Prison"
     }
 }
