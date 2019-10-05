@@ -1,0 +1,20 @@
+{
+  "LANGUAGE_INFO": {
+    "NAME": "Spanish",
+    "ENGLISH_CODE:": "es",
+    "TRANSLATED_BY": "VastLands | TylerAndrew"
+  },
+  "SERVER_JOINED": "Estás conectado a {SERVER}",
+  "COMPONENTS": {
+    "BAR_ITEM_NAMES": {
+      "MY_PROFILE": "Mi Perfil",
+      "SERVERS": " El Servidor ",
+      "COSMETICS": "Estético",
+      "HIDE_PLAYER": "Ocultar Jugadores",
+      "SHOW_PLAYER": "Mostrar Jugadores"
+    },
+    "PLAYER_VISIBILITY_ON": "¡Todos los jugadores están ahora ocultos!",
+    "PLAYER_VISIBILITY_OFF": "¡Los jugadores ya no están ocultos!"
+  },
+  "PORTAL_OPENING": "Abrir el menú..."
+}
