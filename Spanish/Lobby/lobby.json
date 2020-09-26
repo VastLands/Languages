@@ -1,0 +1,96 @@
+{
+    "LANGUAGE_INFO": {
+        "NAME": "Spanish",
+        "Language_CODE:": "es",
+        "TRANSLATED_BY": "imwood04"
+    },
+    "SCOREBOARD": {
+        "RANK": "Rango",
+        "COIN": "Moneda",
+        "LOBBY": "Vestíbulo"
+    },
+    "COMPONENTS": {
+        "BAR_ITEM_NAMES": {
+            "MY_PROFILE": "§aTOQUE PARA\n§b§lVer su perfil",
+            "SERVERS": "§aTOQUE PARA\n§b§lVer modos de juego",
+            "COSMETICS": "§aTOQUE PARA\n§b§lVer cosméticos",
+            "HIDE_PLAYER": "§aTOQUE PARA\n§c§lOcultar jugadores/as",
+            "SHOW_PLAYER": "§aTOQUE PARA\n§b§lMostrar jugadores/as",
+            "LOBBIES": "§aTOCA PARA\n§b§ver los vestíbulos"
+        },
+        "PLAYER_VISIBILITY_ON": "¡Todos los jugadores ahora están ocultos!",
+        "PLAYER_VISIBILITY_OFF": "¡Los jugadores/as ya no están ocultos/as!"
+    },
+    "TUTORIAL": {
+        "MENU_TITLE": "§8Tutorial de VastLands",
+        "MENU_MESSAGE_COMPLETED_ALREADY": "Ya completó el tutorial y obtuvo las recompensas\n Aún puede hacerlo de nuevo, pero no obtendrá ninguna recompensa :P\n\n §f§l\nLongitud: 2 minutos",
+        "MENU_BUTTON_START": "§a§l¡Inicie el tutorial!",
+        "MENU_BUTTON_LATER": "§c¡Quizas mas tarde! 3>"
+    },
+    "COSMETICS": {
+        "MENU.TITLE": "Cosméticos",
+        "MENU_BUTTON_PETS": "§a§lMascotas",
+        "MENU_BUTTON_TRAILS": "§a§lEfecto de senderos",
+        "MENU_BUTTON_GADGETS": "§f§lAparatos",
+        "MENU_BUTTON_INFORMATION": "§5§lInformación",
+        "COSMETICS_PAGE_PET": {
+            "MENU_TITLE": "§1§lMascotas",
+            "MENU_USE_PET": "§aHAGA CLIC PARA CONVOCAR",
+            "MENU_BUTTON_RANK_REQUIRED": "§r§c¡RANGO REQUERIDO!",
+            "MENU_PET_SETTINGS": {
+                "MENU_TITLE": "Configuración de mascotas",
+                "MENU_INPUT_NAMETAG": "Etiqueta de nombre",
+                "MENU_INPUT_MOUNT": "Montar",
+                "MENU_INPUT_KILL": "Matar (malvado/da)",
+                "MENU_INPUT_SPECIAL_TRICK": "Truco especial"
+            }
+        },
+        "COSMETIC_PAGE_PARTICLE": {
+            "MENU_BUTTON_DEACTIVATE": "§cCLICK PARA DESACTIVAR",
+            "MENU_BUTTON_ACTIVATE": "§r§aHAGA CLIC PARA ACTIVAR",
+            "MENU_BUTTON_RANK_REQUIRED": "§r§c¡RANGO REQUERIDO!"
+        },
+        "COSMETICS.PAGE.TRAIL": {
+            "MENU_TITLE": "§1§lSendero",
+            "MENU_USE_PET": "§aHAGA CLIC PARA ACTIVAR",
+            "MENU_USE_PET_ON_CLICK": "§b¡Partícula activada!"
+        }
+    },
+    "TREASURE": {
+        "THROWABLE_TNT": "§l§bTNT LANZABLE",
+        "FOUND": "You found §d{TNT}§c LAUNCHABLE TNT!§7 ¡Revisa tus gadgets!",
+        "FOUND_BROADCAST": "{PLAYER} §7encontró/a §d{TNT}§7 TNT LANZABLE!"
+    },
+    "GADGET": {
+        "COOLDOWN": "Ese dispositivo está en un §d{COOLDOWN}§c Segundo/a enfriamiento!",
+        "GADGET_EMPTY": "§cNo tienes nada de ese gadget para usar",
+        "GADGET_TNT_EXPLODE": "Ka-Boom!"
+    },
+    "PET": {
+        "KILLED": "¡Mataste a tu mascota! ¡No te preocupes, puedes revivir!",
+        "SWITCHED": "Cambio de mascota....",
+        "USE_PET_ON_CLICK": "¡Ahora eres un orgulloso dueño de una mascota! §c¡haz clic §aen tu mascota para administrarla!",
+        "USE_PET_ON_CLICK_LOCKED": "¡No eres dueño de esa mascota! Compra un rango en§6 Shop.VastLands.net",
+        "NAMETAG_UPDATE": "¡Has actualizado el nombre de tu mascota!",
+        "NAMETAG_LENGTH": "¡No puedes tener más de 50 caracteres en el nombre de tu mascota!",
+        "MOUNT_UNSUPPORTED": "¡Todavía no puedes montar esta mascota!",
+        "SPECIAL_ABILITY": "¡Oh bien! ¡Tu mascota ahora realizará trucos especiales o hará sus habilidades especiales!",
+        "SPECIAL_ABILITY_UNSUPPORTED": "Actualmente, esta mascota no tiene trucos ni habilidades especiales. Puedes entrenarlo jugando más con él.",
+        "SPECIAL_ABILITY_DISABLED": "¡Tu mascota ya no realizará trucos o habilidades especiales!"
+    },
+    "PARTICLE": {
+        "PARTICLE_ACTIVATED": "¡Partícula activada!",
+        "PARTICLE_DEACTIVATED": "¡Partícula desactivada!",
+        "PARTICLE_LOCKED": "¡No eres dueño de esa partícula! Compra un rango en§6 Shop.VastLands.net"
+    },
+    "PROFILE": {
+        "MENU.BUTTON.MY_FRIEND": "Mis amigos/as",
+        "MENU.BUTTON.DISCORD": "Discord",
+        "DISCORD_ACCOUNT_LINKED": "VINCULADO/a",
+        "DISCORD_ACCOUNT_NOT_LINKED": "No vinculado/a"
+    },
+    "SERVER-LIST": {
+        "MENU.TITLE": "ELIGE UN MODO DE JUEGO",
+        "MENU.BUTTON.ONLINE": "Actualmente en linea:"
+    }
+}
