@@ -1,0 +1,96 @@
+{
+  "LANGUAGE_INFO": {
+    "NAME": "Español",
+    "LANGUAGE": "es",
+    "TRANSLATED_BY": "imwood04"
+  },
+  "HEADER_USERNAME": "Bienvenido/a",
+  "CART_HEADER": "Tu carrito",
+  "CART_EMPTY": "Su carrito está vacío/a, no tiene que ser 😉",
+  "NAVIGATION": {
+    "HOME": "HOGAR",
+    "RANKS": "Rangos",
+    "CAPES": "Capas |<font color='red'><b> NUEVO</b></font>",
+    "COINS": "MONEDAS",
+    "OTHER": {
+      "RANK_STARTING_RATES": {
+        "HEADER": "Compra monedas",
+        "HEADER_SUB": "Desde $5"
+      },
+      "COINS_STARTING_RATES": {
+        "HEADER": "Rangos de compra",
+        "HEADER_SUB": "Desde $10"
+      },
+      "KEYS_STARTING_RATES": {
+        "HEADER": "Comprar llaves",
+        "HEADER_SUB": "Desde $10"
+      }
+    }
+  },
+  "USERNAME_PAGE": {
+    "SPECIFY_USERNAME": "Especifique su nombre de usuario (Distingue mayúsculas y minúsculas)",
+    "OWN_ANDROID_DEVICE": "<b>¡ESPERE!</b> ¿Tienes un dispositivo Android? También puede comprar rangos a través de nuestro all. <a href='https://play.google.com/store/apps/details?id=com.vastlands'>haga clic aquí</a>",
+    "FORM_PLACEHOLDER_USERNAME": "Nombre de usuario",
+    "FORM_PLACE_HOLDER_PROMOTIONAL_CODE": "Si recibió un código promocional, puede ingresarlo aquí",
+    "BUTTON_CLICK_BELOW": "Haga clic en el botón de abajo",
+    "BUTTON_CONFIRM_PLACEHOLDER": "Confirma este nombre de usuario",
+    "BUTTON_CONFIRM_DESCRIPTION": "¡Asegúrate de que se parezca a ti! (Debería cambiar a tu piel)",
+    "WHY_VERIFICATION_HEADER": "<b>¿Por qué una verificación de nombre de usuario?</b>",
+    "WHY_VERIFICATION_DESCRIPTION": "La confirmación de su nombre de usuario es necesaria para evitar fraudes y garantizar que las compras se abonarán en su cuenta.\n\n"
+  },
+  "SHOP_HOMEPAGE": {
+    "INTRODUCTION": "¡Bienvenido a la tienda de VastLands!",
+    "INTRODUCTION_SUB": "¡Comience haciendo clic en los paquetes que desee en el menú superior!",
+    "INTRODUCTION_SUB_2": "Puede pagar con su cuenta PayPal o sin ella. Para pagar con su cuenta, inicie sesión y luego haga clic en Comprar ahora. Para pagar sin una cuenta, haga clic en 'Pagar con tarjeta de débito o crédito, o crédito de PayPal'",
+    "SUPPORT_INTRO": "¿Apoyo?",
+    "SUPPORT_INFORMATION": "¿Necesitas ayuda? <b>Visite</b> nuestra discord haciendo clic en el botón de abajo <b>o</b> vía twitter <b>@VastlandsMC</b> !",
+    "SUPPORT_BUTTON": "Visita discord",
+    "IMPORTANT_INTRO": "Importante",
+    "IMPORTANT_INFORMATION": "Comprar rangos ayuda a respaldar Vastlands, y espere hasta 1 minuto para obtener el beneficio. También tenga en cuenta que no se permiten devoluciones de cargo, ¡todas las compras son definitivas!"
+  },
+  "RANK_PAGE": {
+    "INTRODUCTION": "Rangos",
+    "INTRODUCTION_SUB": "Comprar rangos nos ayuda a apoyarnos, a agregar nuevas funciones y a mejorar <b>VastLands</b>!",
+    "INFORMATION_HEADER": "Información",
+    "INFORMATION_DESCRIPTION": "¡Los rangos son globales y funcionarán en todos los servidores actuales y futuros!",
+    "INFORMATION_KEY_FEATURE_1": "Cada rango viene con una ventaja, <b>el más alto tiene más.</b>",
+    "INFORMATION_DESCRIPTION_LAST": "Para obtener ayuda y apoyo, visite nuestra <a href='https://discord.vastlands.net'>Discord</a>",
+    "RANKS": {
+      "BUY_BUTTON": "Comprar",
+      "LIFETIME": "Toda la vida",
+      "SUPPORT_US": "Apoyanos",
+      "SEPARATORS": {
+        "HUB_PETS": "Mascotas Hub",
+        "PRISON_ADVANTAGES": "Ventajas en las cárceles",
+        "DISCORD_ADVANTAGES": "Ventajas en discord"
+      },
+      "FEATURES": {
+        "FLY": "Volar",
+        "CHANGE_NICK": "Cambiar Nick",
+        "JOIN_FULL_SERVER": "Unirse al servidor completo",
+        "VANISH": "Desaparecer",
+        "SYNC_DISCORD": "Sincronización de rango en DISCORD"
+      }
+    }
+  },
+  "CAPE_PAGE": {
+    "INTRODUCTION": "Capas",
+    "INTRODUCTION_SUB": "Comprar capas",
+    "INTRODUCTION_HEADER": "¡Mejora tu estilo!",
+    "INFORMATION_HEADER": "¡¿Que son estos?!",
+    "INFORMATION_DESCRIPTION": "¡Son capas! Aparecen a tus espaldas. ¡Muestra tu estilo y brilla!",
+    "RANK_INFORMATION_KEY_FEATURE_1": "¿Quién puede ver mis capas?",
+    "RANK_INFORMATION_DESCRIPTION_LAST": "<b>Todos en la red VastLands</b>"
+  },
+  "COINS_PAGE": {
+    "INTRODUCTION": "Monedas",
+    "INTRODUCTION_SUB": "Comprar monedas",
+    "INTRODUCTION_HEADER": "¿Cuánto le gustaría comprar?",
+    "INFORMATION_HEADER": "¿Qué son las monedas?",
+    "INFORMATION_DESCRIPTION": "Son un tipo de moneda utilizada por Vastlands. ¡Con él, puedes comprar cosas en la tienda de juegos!",
+    "INFORMATION_BOXED": "Tener un rango <code>duplicará</code> la cantidad de monedas que compre.",
+    "INFORMATION_DESCRIPTION_LAST": "Para obtener ayuda y apoyo, visite nuestra <a href='https://discord.vastlands.net'>discord</a>",
+    "DEALS_INTRODUCTION": "OFERTAS",
+    "DEALS_INTRODUCTION_SUB": "Aquí hay algunas ofertas por tiempo LIMITADO, ¡compre hasta el final!"
+  }
+}
