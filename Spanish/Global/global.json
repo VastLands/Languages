@@ -1,0 +1,20 @@
+{
+    "SERVER_JOINED": "Estas conectado/a a {IDENTITY}",
+    "LANGUAGE_CHANGE": "Tu idioma se ha establecido en {LANGUAGE}",
+    "LANGUAGE_CHANGE_SAME": "¡Ese ya es tu idioma predeterminado!",
+    "LANGUAGE_PAGE_DESCRIPTION": "VastLands admite los siguientes idiomas a continuación, el soporte es ligero. Lo mejoraremos continuamente. Haga clic en cualquiera de los siguientes para configurarlo como su idioma predeterminado",
+    "PREFIXES": {
+        "SERVER": "el Servidor",
+        "PERMISSION": "Permiso",
+        "PORTAL": "Portal",
+        "TREASURE": "Tesoro",
+        "GADGET": "Artilugio",
+        "PET": "Mascota",
+        "PARTICLE": "Partícula",
+        "LANGUAGE": "Idioma"
+    },
+    "GAMES": {
+        "DUEL": "Duelos",
+        "PRISON": "Prisión"
+    }
+}
